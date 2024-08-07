@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+🔭 I’m currently working on Web Development - Online Shopping System for a client
+🌱 I’m currently learning JavaScript and MongoDB
+🤔 I’m looking for help with GitHub Student Dev Pack!
 <!--
 **NashIvan-cmd/NashIvan-cmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
