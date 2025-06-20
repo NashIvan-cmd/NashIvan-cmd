@@ -1,7 +1,7 @@
 ## Hi there 👋
 🔭
 🌱 
-🤔 I’m looking for help with GitHub Student Dev Pack!
+🤔 
 <!--
 **NashIvan-cmd/NashIvan-cmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
