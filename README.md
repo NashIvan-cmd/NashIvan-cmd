@@ -12,8 +12,8 @@
 ## 👋 About Me
 
 🎓 I'm **Nash Ivan Ramos**, a 3rd Year FEU TECH Student from the Philippines.  
-🚀 Currently diving deep into **Machine Learning**, **AI Concepts**, and mastering the **Node.js ecosystem**.  
-💡 Fintech enthusiast with a growing interest in smart systems and intelligent software.
+🚀 Currently mastering the **Node.js ecosystem**.  
+💡 
 
 ---
 
