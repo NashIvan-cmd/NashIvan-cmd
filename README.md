@@ -48,7 +48,7 @@
 
 ## 📬 Let's Connect!
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-link) - https://www.linkedin.com/in/nashivan-cmd/
+- 💼 [LinkedIn](https://www.linkedin.com/in/nashivan-cmd/)
 - 🐦 [Twitter](https://twitter.com/your-twitter) - TBA 
 - 💌 Reach out: nashivanramos@gmail.com
 
