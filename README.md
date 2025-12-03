@@ -11,9 +11,9 @@
 
 ## 👋 About Me
 
-🎓 I'm **Nash Ivan Ramos**, a 3rd Year FEU TECH Student from the Philippines.  
+🎓 I'm **Nash Ivan Ramos**, a 4th Year FEU TECH Student from the Philippines.  
 🚀 Currently mastering the **Node.js ecosystem**.  
-💡 
+💡 Currently looking for an Internship
 
 ---
 
