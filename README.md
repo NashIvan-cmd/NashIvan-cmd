@@ -13,7 +13,7 @@
 
 🎓 I'm **Nash Ivan Ramos**, a 4th Year FEU TECH Student from the Philippines.  
 🚀 Currently mastering the **Node.js ecosystem**.  
-💡 Currently looking for an Internship
+💡 Software Engineer Intern @ You_Source Inc.
 
 ---
 
